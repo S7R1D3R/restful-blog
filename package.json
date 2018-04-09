@@ -1,0 +1,11 @@
+{
+  "name": "restful-blog",
+  "version": "1.0.0",
+  "description": "A restful blog application in express.js and mongodb.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joaquim T. Duarte",
+  "license": "ISC"
+}
