@@ -1,5 +1,4 @@
 i.icon {
-<<<<<<< HEAD
     font-size: 2em;
 }
 
@@ -8,17 +7,6 @@ i.icon {
     margin-top: 7em;
 }
 
-=======
-
-    font-size: 2em;
-    padding-right: 2em;
-}
-
-.container.main {
-
-    margin-top: 7.0em;
-}
->>>>>>> 1eb7d3c4cc8392f9b3ce91c424db6327e2e8eef9
 
 #delete {
     display: inline;
